@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/FileInputStream.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/concrete/sid/AccreditationPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/excreporter/ExcelReport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/utils/excreporter/OverallColumns.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/sid/CycleOfRegistrationAndAuthorization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testpackage/Calculator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testpackage/Practice.java" charset="UTF-8" />
+  </component>
+</project>
